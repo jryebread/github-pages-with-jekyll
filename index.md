@@ -1,4 +1,4 @@
 ---
-title: ": A rambling"
+title: "Hi, Computer science person reporting, I ramble about VR, startups, Distributed systems, and other stuff here :)
+"
 ---
-Hi there! I'm James, I was a student studying computer science at UCSD, I ramble about VR, startups, Distributed systems, and other stuff here :)
